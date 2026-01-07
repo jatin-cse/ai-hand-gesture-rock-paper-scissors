@@ -1,4 +1,3 @@
-
 # ✋ Rock Paper Scissors – Hand Gesture (Python)
 
 A real-time **Rock Paper Scissors game** controlled using **hand gestures** with a webcam.  
