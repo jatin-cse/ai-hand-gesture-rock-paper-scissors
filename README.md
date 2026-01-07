@@ -1,4 +1,4 @@
-# ✋ Rock Paper Scissors – Hand Gesture (Python)
+# Rock Paper Scissors – Hand Gesture (Python)
 
 A real-time **Rock Paper Scissors game** controlled using **hand gestures** with a webcam.  
 Built using **Python, OpenCV, and MediaPipe**, this project detects hand gestures and lets you play against the computer.
@@ -7,7 +7,7 @@ The project is implemented in **three progressive versions**, showing feature-by
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 
@@ -21,7 +21,7 @@ rock-paper-scissors-hand-gesture/
 
 ---
 
-## 🔹 Project Versions
+## Project Versions
 
 ### 1️⃣ Basic Version (Countdown Only)
 **File:** `rps_basic_countdown.py`
@@ -52,14 +52,14 @@ rock-paper-scissors-hand-gesture/
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python 3.10 / 3.11  
 - OpenCV  
 - MediaPipe  
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Make sure **Python 3.10 or 3.11** is installed  
 (**Do not use Python 3.14**)
@@ -71,7 +71,7 @@ py -3.11 -m pip install opencv-python mediapipe numpy
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open **Command Prompt**
 2. Go to the project folder:
@@ -98,7 +98,7 @@ py -3.11 rps_score_and_reset.py
 
 ---
 
-## ✋ Hand Gestures Used
+## Hand Gestures Used
 
 | Gesture            | Action                      |
 | ------------------ | --------------------------- |
@@ -109,7 +109,7 @@ py -3.11 rps_score_and_reset.py
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * Computer vision basics
 * Hand landmark detection
@@ -119,7 +119,7 @@ py -3.11 rps_score_and_reset.py
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Sound effects
 * Winner animations
@@ -129,11 +129,11 @@ py -3.11 rps_score_and_reset.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Jatin**
 
-⭐ If you like this project, consider starring the repository!
+ If you like this project, consider starring the repository!
 
 
 
